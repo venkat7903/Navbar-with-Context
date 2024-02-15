@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.not-found-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: 2s;
+}
+.not-found-img {
+  width: 250px;
+}
